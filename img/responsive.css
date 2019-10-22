@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+
+@media screen and (max-width: 767px) { /*ウィンドウ幅が最大767pxまでの場合に適用*/
+  .group-list {
+    font-size: small;
+  }
+  .work {
+    width: 100%;
+    margin: 2% 0;
+  }
+}
